@@ -22,8 +22,10 @@ Data exploration
 Business queries
 Aggregations
 Product & category analysis
-![Zepto-Product-Analytics-Dashboard
-](images/linkedin_1.png)
+
+
+[![MySQL](Images/LinkedIn_1.png)](https://github.com/tanu-94/Zepto-Product-Analytics-Dashboard/blob/main/Images/LinkedIn_1.png)
+
 
 ⬇️
 
@@ -34,6 +36,8 @@ Missing value handling
 Feature engineering
 Product segmentation
 Popularity score calculation
+
+[![Python](Images/LinkedIn_1.png)](https://github.com/tanu-94/Zepto-Product-Analytics-Dashboard/blob/main/Images/LinkedIn_2.png)
 
 ⬇️
 
@@ -53,6 +57,9 @@ Pricing & discount analysis
 📂 Category & Sub-Category Analysis
 📊 Executive KPI Dashboard
 🎯 Interactive Filters & Navigation
+
+![LinkedIn Banner](Images/Power_BI_Zepto.png)
+
 
 💡 Skills Demonstrated
 SQL Query Writing
