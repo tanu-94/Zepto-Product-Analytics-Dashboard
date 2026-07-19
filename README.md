@@ -1,4 +1,3 @@
-.
 
 🚀 Zepto Product Analytics Dashboard
 📊 End-to-End Data Analytics Project
@@ -15,12 +14,16 @@ This project demonstrates the complete analytics workflow—from raw data explor
 📂 Git & GitHub
 📌 Project Workflow
 
+⬇️
+
 MySQL
 
 Data exploration
 Business queries
 Aggregations
 Product & category analysis
+![Zepto-Product-Analytics-Dashboard
+](images/linkedin_1.png)
 
 ⬇️
 
